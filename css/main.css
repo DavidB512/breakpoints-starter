@@ -1,0 +1,18 @@
+/* ----------- For screens 767px and smaller ----------- */
+	body {
+    background: rgba(216, 50, 9, 0.952);
+  }
+
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width:768px) {
+	body {
+    background: rgba(216, 143, 9, 0.952);
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width:1200px) {
+  body {
+    background: rgba(161, 216, 9, 0.952);
+  }
+}
